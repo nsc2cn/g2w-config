@@ -1,0 +1,1 @@
+# g2w-config
