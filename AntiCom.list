@@ -1,4 +1,5 @@
 PROCESS-NAME,/opt/oneagent/common/com.alibaba.security.update,REJECT
+PROCESS—NAME,/Applications/AliEntSafe.app/Contents/Services/CloudShell.app/Contents/MacOS/CloudShell,REJECT
 PROCESS-NAME,*alibaba*,REJECT
 PROCESS-NAME,*oneagent*,REJECT
 PROCESS_NAME,*CloudShell*REJECT
